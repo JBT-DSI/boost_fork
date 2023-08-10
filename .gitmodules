@@ -515,7 +515,7 @@
 	branch = .
 [submodule "locale"]
 	path = libs/locale
-	url = https://github.com/boostorg/locale.git
+	url = ../locale.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "auto_index"]
